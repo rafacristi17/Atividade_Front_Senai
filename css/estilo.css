@@ -1,3 +1,10 @@
+/********
+
+Cabeçalho do site - menu 
+
+
+*********/
+
 header img {
     height: 70px;
     width: 70px;
@@ -5,9 +12,14 @@ header img {
 
 
 
-/**/
+/******************
+
+Conteudo
+
+************/
 
 /**/
+
 #section-vendidos {
     text-align: center;
 }
@@ -36,7 +48,9 @@ header img {
     font-weight: bold;
 }
 
-/*Rodape*/
+/*************
+    Rodape
+*************/
 
 footer {
     text-align: center;
@@ -49,7 +63,7 @@ footer p {
     padding: 10px;
 }
 
-/*Voltar topo*/
+/*Botão ao Voltar topo*/
 
 #voltar-topo {
     position: fixed;
@@ -58,7 +72,10 @@ footer p {
 
 }
 
-/**/
+/* ****************
+    página de login
+    
+    ********************/
 
 #section-login h1 {
     text-align: center;
@@ -75,7 +92,7 @@ footer p {
 }
 
 
-/* Box de informações*/
+/* Box de informações de cadastro*/
 #panel,
 #flip {
     padding: 5px;
